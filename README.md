@@ -31,3 +31,6 @@ The Power BI dashboard provides a clear, interactive overview of Domino’s sale
 -🏆 Top & Bottom Performers: Helps identify high-performing products and underperforming items that may need promotion or replacement.
 
 *These visuals help stakeholders understand demand patterns, optimize inventory, and tailor promotions based on product performance.*
+
+## Dashboard
+![Domino's Power BI Dashboard]()
