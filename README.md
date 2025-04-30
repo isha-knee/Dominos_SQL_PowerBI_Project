@@ -33,4 +33,6 @@ The Power BI dashboard provides a clear, interactive overview of Domino’s sale
 *These visuals help stakeholders understand demand patterns, optimize inventory, and tailor promotions based on product performance.*
 
 ## Dashboard
+![Domino's Power BI Dashboard](https://github.com/isha-knee/Dominos_SQL_PowerBI_Project/blob/main/Screenshot%202025-04-30%20211600.png)
+
 ![Domino's Power BI Dashboard]()
