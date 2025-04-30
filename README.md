@@ -1,1 +1,3 @@
-# Dominos_SQL_PowerBI_Project
+# Dominos Sales Report Analysis (MySQL and Power BI)
+
+![Dominos logo]()
