@@ -20,3 +20,14 @@ The objective of this project is to analyze Domino’s sales data to uncover mea
 The data for this project is sourced from Kaggle dataset:
 
 - **Dataset Link:** [Pizza Sales](https://www.kaggle.com/datasets/purusachdeva/dominos-pizza-sales)
+
+## Dashboard Highlights
+The Power BI dashboard provides a clear, interactive overview of Domino’s sales performance, with visuals designed to support data-driven decisions. Key highlights include:
+
+-📅Sales Trends Analysis: Displaying daily and monthly trends in total orders and revenue to monitor business growth and seasonality.
+
+-📦Product Performance Breakdown: Offers insights into customer preferences.
+
+-🏆 Top & Bottom Performers: Helps identify high-performing products and underperforming items that may need promotion or replacement.
+
+*These visuals help stakeholders understand demand patterns, optimize inventory, and tailor promotions based on product performance.*
